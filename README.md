@@ -3,7 +3,7 @@
 Pour pouvoir utiliser ce programme veuillez installer les modules necessaires a son fonctionnement:
 
 Pour cela vous pouvez creer votre envionnement python avec la commande:
-python3 -m venv "nom-environnement"
+python3 -m venv ".nom-environnement"
 
 et en l'activant avec la commande : 
 
