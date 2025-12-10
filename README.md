@@ -1,6 +1,17 @@
 #RESEAU FANTOME PRIVE LOCAL
 
+Pour pouvoir utiliser ce programme veuillez installer les modules necessaires a son fonctionnement:
 
+Pour cela vous pouvez creer votre envionnement python avec la commande:
+python3 -m venv "nom-environnement"
+
+et en l'activant avec la commande : 
+
+source ./env/bin/activate
+
+Puis installer les modules avec pip install -r requirements.txt
+
+Ou en les installer simplement ( sans utilisation d'environnement python ) avec pip install -r requirements 
 Réseau Fantôme Privé Local 
 
 🎯 Contexte :
